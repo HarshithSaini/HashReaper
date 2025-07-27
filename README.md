@@ -29,7 +29,7 @@
 
 ### Clone the repository:
 bash
-git clone https://github.com/shivakasula48/HashReaper.git
+git clone https://github.com/HarshithSaini/HashReaper
 cd HashReaper
 
 
